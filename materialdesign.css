@@ -1,0 +1,11 @@
+
+.layout {
+    border-top: 15px solid cadetblue;
+}
+.contener{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: 1500px;
+    margin: 0px 50 px 100px 250px;
+}
